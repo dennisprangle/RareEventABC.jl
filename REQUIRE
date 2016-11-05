@@ -1,1 +1,5 @@
 julia 0.5
+DataFrames 0.8.4
+Distributions 0.11.0
+ProgressMeter 0.3.3
+StatsFuns 0.3.1

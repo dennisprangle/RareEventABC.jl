@@ -1,7 +1,6 @@
 # RareEventABC
 
-[![Build Status](https://travis-ci.org/dennisprangle/RareEventABC.jl.svg?branch=master)](https://travis-ci.org/dennisprangle/RareEventABC.jl)
-
-[![Coverage Status](https://coveralls.io/repos/dennisprangle/RareEventABC.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/dennisprangle/RareEventABC.jl?branch=master)
-
-[![codecov.io](http://codecov.io/github/dennisprangle/RareEventABC.jl/coverage.svg?branch=master)](http://codecov.io/github/dennisprangle/RareEventABC.jl?branch=master)
+This package contains code for the paper "A rare event approach to high dimensional Approximate
+Bayesian computation", shortly to be arXived.
+It's only intended to reproduce the paper's results and not to be a general purpose package.
+See the "examples" directory for scripts used to perform all the analyses in the paper - these are sometimes a bit hacky unfortunately!
